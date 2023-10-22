@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jinlong Ke (柯金龙)"
-description              : "major in scientific and engerning of materials, Hunan University "
+description              : "Hunan University, College of Materials Science and Engineering, lithium-ion battery direction"
 repository               : "jinlong97.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Jinlong Ke (柯金龙)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : Chang Sha, China"
+  bio              : "Hunan University"
+  location         : Chang Sha, China
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : 
+  email            : "1210621898@qq.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

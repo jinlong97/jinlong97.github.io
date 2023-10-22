@@ -23,19 +23,19 @@ My research interest includes positive and negative materials and electrolyte fo
 
 
 # 🔥 News
-- *2023.10*: &nbsp;🎉🎉  I release a modern and responsive academic personal homepage template. 
+- *2023.10*: &nbsp;🎉🎉  I release a modern and responsive academic personal homepage. 
 
   
 
 # 📝 Publications 
 
-- **Jinlong Ke****, Meichen Li, Shi Chen, Peitao Xiao, Aiping Hu, Chaohe Xu, Peng Gao, Jilei Liu, Tailored design Ti^4+^ coordination via coplanar carboxyl and hydroxyl groups towards high purity TiO~2~(B) with ultrafast Li+ storage. Nano Letter. (Under Review)
-- **Jinlong Ke**, Shi Chen, Peng Gao, Jilei Liu, Rice-granular TiO~2~(B) with negative ab plane for ultra-fast charging and stable cycling. (In preparation)
-- Jin, Y.; Cui, Y.; Xue, J.; **Ke, J**.; Yang, J.; Zeng, Y.; Gong, Y.; Dong, H.; Gao, P., Tailored design the redox chemistry and microstructures of bronze-type VO~2~(B) via Co/Zn doping towards enhanced sodium storage. [*Materials Today Nano* **2023,** *24*, 100415](https://www.sciencedirect.com/science/article/abs/pii/S2588842023001141). (Contribution: investigation and formal analysis)
+- ***Jinlong Ke***, Meichen Li, Shi Chen, Peitao Xiao, Aiping Hu, Chaohe Xu, Peng Gao, Jilei Liu, Tailored design Ti^4+^ coordination via coplanar carboxyl and hydroxyl groups towards high purity TiO~2~(B) with ultrafast Li+ storage. Nano Letter. (Under Review)
+- ***Jinlong Ke***, Shi Chen, Peng Gao, Jilei Liu, Rice-granular TiO~2~(B) with negative ab plane for ultra-fast charging and stable cycling. (In preparation)
+- Jin, Y.; Cui, Y.; Xue, J.; ***Ke*, J**.; Yang, J.; Zeng, Y.; Gong, Y.; Dong, H.; Gao, P., Tailored design the redox chemistry and microstructures of bronze-type VO~2~(B) via Co/Zn doping towards enhanced sodium storage. [*Materials Today Nano* **2023,** *24*, 100415](https://www.sciencedirect.com/science/article/abs/pii/S2588842023001141). (Contribution: investigation and formal analysis)
 
-- ·  Gong, Y.; Zi, S.; Yang, J.; Mo, Y.; Luo, K.; **Ke, J**.; Zhou, W.; Gong, Y.; Gao, P., Unraveling the Critical Role of Octahedrally Coordinated Mn in Spinel Manganites toward Enhanced Electrochemical Charge Storage. [*ACS Sustainable Chemistry & Engineering* **2023**](https://pubs.acs.org/doi/abs/10.1021/acssuschemeng.3c04660). (Contribution: characterization and analysis)
+- ·  Gong, Y.; Zi, S.; Yang, J.; Mo, Y.; Luo, K.; ***Ke, J***.; Zhou, W.; Gong, Y.; Gao, P., Unraveling the Critical Role of Octahedrally Coordinated Mn in Spinel Manganites toward Enhanced Electrochemical Charge Storage. [*ACS Sustainable Chemistry & Engineering* **2023**](https://pubs.acs.org/doi/abs/10.1021/acssuschemeng.3c04660). (Contribution: characterization and analysis)
 
-- ·  Yang, K., Zhou, W., Fu, Q., Xiao, L., Mo, Y., **Ke, J**., Shen, W., Wang, Z., Tu, J., Chen, S., Gao, P., Liu, J., Optimizing Kinetics for Enhanced Potassium-Ion Storage in Carbon-Based Anodes.  [Adv. Funct. Mater. 2023, 2306190](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202306190). (Contribution: data analysis and electrochemical simulations)
+- ·  Yang, K., Zhou, W., Fu, Q., Xiao, L., Mo, Y., ***Ke, J***., Shen, W., Wang, Z., Tu, J., Chen, S., Gao, P., Liu, J., Optimizing Kinetics for Enhanced Potassium-Ion Storage in Carbon-Based Anodes.  [Adv. Funct. Mater. 2023, 2306190](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202306190). (Contribution: data analysis and electrochemical simulations)
 
 
 # 🎖 Honors and Awards

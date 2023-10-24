@@ -40,12 +40,18 @@ My research interest includes positive and negative materials and electrolyte fo
 
 # 🎖 Honors and Awards
 - *2021.10* First Class Scholarship for Postgraduate Studies. 
+- *2022.10* Second Class Scholarship for Postgraduate Studies. 
+- *2023.10* Second Class Scholarship for Postgraduate Studies. 
 
 # 📖 Educations
 - *2021.06 - 2023.10 (now)*, Hunan University, College of Materials Science and Engineering, lithium-ion battery direction. 
 - *2015.09 - 2019.06*, Hunan University, College of Materials Science and Engineering, Welding of metal materials direction. 
 
 # 💬 Invited Talks
+
+- 2023(第三届)湖南(长沙)碳基先进材料产业高质量发展论坛
+
 # 💻 Internships
 - *2023.05 - 2023.09*, [Li-FUN TECHNOLOGY](http://lifuntech.com/), China.
 
+=··5
